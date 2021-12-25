@@ -11,6 +11,12 @@ import physics1 from './img/physikill/1.jpg';
 import physics2 from './img/physikill/2.jpg';
 import physics3 from './img/physikill/3.jpg';
 import physics4 from './img/physikill/4.jpg';
+import chat1 from './img/chat-project/1.PNG';
+import chat2 from './img/chat-project/2.PNG';
+import chat3 from './img/chat-project/3.PNG';
+import chat4 from './img/chat-project/4.PNG';
+import chat5 from './img/chat-project/5.PNG';
+
 import My_Project from "./My_Project";
 
 function Project() {
@@ -37,6 +43,13 @@ function Project() {
     img:[physics1,physics2,physics3,physics4],
     technologies:["Unity","C#","Blender"],
     link:"https://drive.google.com/file/d/1YtwKxbwGIwMr_8C0ODleQkSATQPxOtSY/view?usp=sharing"
+},{
+  id: 3,
+  name:"Chat App",
+  description:"This Chat App allows users to create chat rooms and add multiple users to any chat,thus leading to a collaboration among a community of like-minded people",
+  img:[chat1,chat2,chat3,chat4,chat5],
+  technologies:["React JS","Chatengine.io","CSS"],
+  link:"https://my-chat-app1.netlify.app/"
 }
     ]
   return (

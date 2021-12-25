@@ -28,7 +28,7 @@ function Project() {
       name:"Movies-Ranking",
       description:"This Website allows you to discuss your Movies,Series,Anime and rate them with multiple users,as each rating affects the overall score of the movie.Search for movies posted by Users and filter them according to your liking",
       img:[movies1,movies2,movies3],
-      technologies:["Node JS","Express JS","React JS","Material UI","MongoDB","HTML","CSS"],
+      technologies:["Node JS","Express JS","React JS","Material UI","MongoDB","CSS"],
       link:"https://movies-ranking.netlify.app"
   },{
     id: 2,

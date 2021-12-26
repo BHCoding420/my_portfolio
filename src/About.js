@@ -21,7 +21,7 @@ function About() {
                 My Name is Bashar Hamade,I am a 19 year old software developer with a wide variety of skillsets that includes:
               </p>
               <p className="about__text p__color">
-                Front-end web development,Back-end web development,Algorithmic Problem solving,Game development,Machine Learning & AI,and a little bit of 3D-modelling and Graphics.
+                Front-end web development,Back-end web development,Algorithmic Problem solving,Android development(using Java),Game development,Machine Learning & AI,and a little bit of 3D-modelling and Graphics.
               </p>
               <p className="about__text p__color">
                 I'm currently in my 3rd year in the Lebanese University,where I am studying my Computer Science Bachelor

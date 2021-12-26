@@ -10,7 +10,7 @@ const My_Project = ({proj_props}) => {
            <div style={{minHeight: width > 500 ? '400px' : '1200px', width: '100%',margin:"0 auto",display: 'flex',flexWrap: 'wrap'}}>
            {proj_props.img.map((img) =>{
             return <div style={{backgroundImage: 'url(' + img + ')',border: '4px solid #f9004d',borderRadius: '20px',
-            minWidth: width > 500 ? '30%' : '100%',
+            minWidth: width > 500 ? '25%' : '100%',
             marginTop: '0.5rem',
             marginRight:'2rem',
             backgroundPosition: 'center',

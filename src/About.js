@@ -23,9 +23,13 @@ function About() {
                 with a wide variety of skillsets that includes:
               </p>
               <p className="about__text p__color">
+<<<<<<< HEAD
                 Front-end web development,Back-end web development,Algorithmic
                 Problem solving,Game development,Machine Learning & AI,and a
                 little bit of 3D-modelling and Graphics.
+=======
+                Front-end web development,Back-end web development,Algorithmic Problem solving,Android development(using Java),Game development,Machine Learning & AI,and a little bit of 3D-modelling and Graphics.
+>>>>>>> 2bee76a9511185115f3625cc9af7773833d7e60a
               </p>
               <p className="about__text p__color">
                 I'm currently in my 3rd year in the Lebanese University,where I

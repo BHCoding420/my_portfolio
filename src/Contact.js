@@ -13,6 +13,9 @@ function Contact() {
                            <p className="hire__text white"><strong>+961 81 34 60 36</strong> or email <strong>basharhamade12@.com</strong></p>
                         </div>
                         <div style={{display:"flex"}} >
+                        <a href="https://www.linkedin.com/in/bashar-hamade-a89685229">
+                        <i class="fab fa-linkedin fa-2x" style={{color: '#F9004D',margin:"0 10px auto"}}> </i>
+                    </a>
                             <a href="https://www.instagram.com/basharhamede/">
                                 <i class="fab fa-instagram fa-2x" style={{color: '#F9004D',margin:"0 10px auto"}}> </i>
                             </a>

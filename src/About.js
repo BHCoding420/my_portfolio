@@ -35,11 +35,11 @@ function About() {
                 Saarlandes,where I'm going to study my Bachelor in Informatik
                 after completing my German language DSH-Prüfüng
               </p>
-              <div className="about__button d__flex align__items__center">
+              {/*<div className="about__button d__flex align__items__center">
                 <a href={CV} download>
                   <button className="about btn pointer">Download CV</button>
                 </a>
-              </div>
+  </div>*/}
             </div>
           </div>
         </div>

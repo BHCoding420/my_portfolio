@@ -31,8 +31,9 @@ function About() {
                 Learning & AI,and a little bit of 3D-modelling and Graphics.
               </p>
               <p className="about__text p__color">
-                I'm currently in my 3rd year in the Lebanese University,where I
-                am studying my Computer Science Bachelor
+                I have gotten my admission to study at Universität des
+                Saarlandes,where I'm going to study my Bachelor in Informatik
+                after completing my German language DSH-Prüfüng
               </p>
               <div className="about__button d__flex align__items__center">
                 <a href={CV} download>

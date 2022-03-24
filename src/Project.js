@@ -83,7 +83,7 @@ function Project() {
         "MongoDB",
         "CSS",
       ],
-      link: "https://edutube.netlify.app/",
+      link: "https://edutube2.netlify.app/",
     },
   ];
   return (

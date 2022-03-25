@@ -12,7 +12,7 @@ function Contact() {
                             <p className="hire__text white">I am available for work. Connect with me via phone:</p>
                            <p className="hire__text white"><strong>+961 81 34 60 36</strong> or email <strong>basharhamade12@.com</strong></p>
                         </div>
-                        <div style={{display:"flex"}} >
+        {/*<div style={{display:"flex"}} >
                         <a href="https://www.linkedin.com/in/bashar-hamade-a89685229">
                         <i class="fab fa-linkedin fa-2x" style={{color: '#F9004D',margin:"0 10px auto"}}> </i>
                     </a>
@@ -22,7 +22,7 @@ function Contact() {
                             <a href="https://www.facebook.com/bachar.hmede.1/">
                             <i class="fab fa-facebook fa-2x" style={{color: '#F9004D',margin:"0 10px auto"}}> </i>
                         </a>
-                        </div>
+                        </div>*/}
                         {/*<div className="input__box">
                            <input type="text" className="contact name" placeholder="Your name *" />
                            <input type="text" className="contact email" placeholder="Your Email *" />

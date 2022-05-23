@@ -86,8 +86,8 @@ function Home() {
             <div className="home__meta">
               <h1 className="home__text pz__10">WELCOME!!</h1>
               <h2 className="home__text pz__10">Hello,I'm Bashar Hamade,</h2>
-              <h3 className="home__text sweet pz__10">A software developer</h3>
-              <h4 className="home__text pz__10">BASED in Lebanon.</h4 >
+              <h3 className="home__text sweet pz__10">A Lebanese software developer</h3>
+              <h4 className="home__text pz__10">living in Germany</h4 >
             </div>
           </div>
         </div>

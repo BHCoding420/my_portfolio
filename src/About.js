@@ -31,7 +31,7 @@ function About() {
                 Learning & AI,and a little bit of 3D-modelling and Graphics.
               </p>
               <p className="about__text p__color">
-                I have gotten my admission to study at Universität des
+                I studied Informatics for 2 years in the Lebanese University,and I have gotten my admission to study at Universität des
                 Saarlandes,where I'm going to study my Bachelor in Informatik
                 after completing my German language DSH-Prüfüng
               </p>

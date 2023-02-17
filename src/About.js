@@ -19,7 +19,7 @@ function About() {
             <h1 className="about__heading">About Me</h1>
             <div className="about__meta">
               <p className="about__text p__color">
-                My Name is Bashar Hamade,I am a 19 year old software developer
+                My Name is Bashar Hamade,I am a 20 year old software developer
                 with a wide variety of skillsets that includes:
               </p>
               <p className="about__text p__color">
@@ -28,8 +28,8 @@ function About() {
                 little bit of 3D-modelling and Graphics.
               </p>
               <p className="about__text p__color">
-                I'm currently in my 3rd year in the Lebanese University,where I
-                am studying my Computer Science Bachelor
+                I'm studied Computer Science for 2 years at the Lebanese University,and now I'm continuing my bachelor in Informatik
+                at Universität des Saarlandes
               </p>
               <div className="about__button d__flex align__items__center">
                 <a href={CV} download>
